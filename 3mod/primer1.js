@@ -1,6 +1,6 @@
-let password ="124_4"
+let password ="_zxd"
 
-if (password.length>4 && (password.includes('-') || password.includes('_')))
+if (password.length >= 4 && (password.includes('-') || password.includes('_')))
    {
     console.log('Пароль является надёжным')
     }
